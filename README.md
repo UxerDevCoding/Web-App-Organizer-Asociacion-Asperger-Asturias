@@ -1,12 +1,12 @@
 # Descripción del proyecto
 
-Proyecto realizado para la asociación Asperger Asturias que consiste en diseñar una aplicación Web, que pueda ser gestiona tanto por los técnicos de la asociación como por los usuarios de esta, servirá para gestionar y crear tareas que faciliten la organización de la vida cotidiana de las personas con asperger. Posteriormente los usuarios podrán checkear en su dispositivo móvil las tareas a realizar y marcarlas como finalizadas.
+Proyecto realizado para la asociación Asperger Asturias que consiste en diseñar una aplicación Web, que pueda ser gestionada tanto por los técnicos de la asociación como por los usuarios de esta. Servirá para gestionar y crear tareas que faciliten la organización de la vida cotidiana de las personas con asperger. Posteriormente los usuarios podrán checkear en su dispositivo móvil las tareas a realizar y marcarlas como finalizadas.
 
 Tres perfiles:
 
  - Administrador (desktop): Asigna los roles a los usuarios que accedan a la aplicación, pudiendo ser estos técnicos o usuarios finales.
  - Técnicos (desktop): Cada técnico tendrá asignados un determinado número de usuarios finales, a los cuales podra ir creando tareas diarias en diferentes categorías.
- - Usuarios finales (mobile first): Cada usuario podra ver las tareas a realizar diariamente, pudiendolas checkear cuándo las ha realizado y comprobar su barra de          progreso de tareas.
+ - Usuarios finales (mobile first): Cada usuario podra ver las tareas a realizar diariamente, pudiendolas checkear cuándo las ha realizado y comprobar su barra de progreso de tareas.
 
 
 -----------------------------------------------------------------------------------------
